@@ -1,0 +1,9 @@
+# Party Pool - Chat Application Requirements
+
+# Core Dependencies
+colorama>=0.4.6              # Cross-platform colored terminal output
+cryptography>=41.0.0         # Encryption and cryptographic functions
+prompt-toolkit>=3.0.0        # Advanced CLI input/output
+
+# Optional for Client Executable Generation
+pyinstaller>=6.0.0           # Convert Python scripts to standalone executables
