@@ -542,10 +542,10 @@ def handle_client_command(message):
 def validate_message(message):
     """Validate message before sending."""
     if not message.strip():
-        print_error("Cannot send empty message.")
+        print_formatted_text(HTML(f'<b><ansired>Cannot send empty message.</ansired></b>'))
         return False
     if any(char in message for char in ILLEGAL_CHARS):
-        print_error(f"Message contains illegal characters: [{{', '.join(ILLEGAL_CHARS)}}]")
+        print(f'Message contains illegal characters: [{{', '.join(ILLEGAL_CHARS)}}]')
         return False
     return True
 
