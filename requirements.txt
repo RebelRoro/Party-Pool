@@ -7,3 +7,4 @@ prompt-toolkit>=3.0.0        # Advanced CLI input/output
 
 # Optional for Client Executable Generation
 pyinstaller>=6.0.0           # Convert Python scripts to standalone executables
+pillow>=10.0.0               # Image processing library for PNG to ICO conversion
